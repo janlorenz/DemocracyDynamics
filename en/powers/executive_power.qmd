@@ -1,0 +1,12 @@
+---
+title: "Executive Power"
+description: "Running the State in Defense and Diplomacy and Administration"
+group: "operational"
+order: 3
+status: "draft"
+---
+
+German terms: Exekutive, Ausführende Gewalt
+
+Distinguish Domestic Administration and Foreign & Defense Prerogative.
+

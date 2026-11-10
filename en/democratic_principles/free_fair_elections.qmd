@@ -1,0 +1,11 @@
+---
+title: "Free and fair elections"
+order: 7
+status: "draft"
+---
+
+## Aspects and tensions
+
+electoral systems and their effects (proportional vs. first-past-the-post, gerrymandering), campaign finance regulation, voter suppression vs. voter-ID integrity measures, election observation and international standards (OSCE/ODIHR benchmarks), disinformation and foreign interference in the digital-campaign era.
+
+

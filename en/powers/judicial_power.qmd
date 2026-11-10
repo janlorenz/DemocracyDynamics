@@ -1,0 +1,10 @@
+---
+title: "Judicial Power"
+description: "Resolving Disputes"
+group: "operational"
+order: 5
+status: "draft"
+---
+
+German terms: Judikative, Rechtsprechende Gewalt
+

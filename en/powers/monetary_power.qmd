@@ -1,0 +1,10 @@
+---
+title: "Monetary Power"
+description: "Managing Currency"
+group: "operational"
+order: 6
+status: "draft"
+---
+
+German terms: Monetative, Geldpolitische Gewalt
+

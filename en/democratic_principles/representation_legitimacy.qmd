@@ -1,0 +1,12 @@
+---
+title: "Representation and Legitimacy of Representatives"
+order: 1
+status: "draft"
+translation-status: "machine"
+translation-source: "de"
+---
+
+Representative democracy: An important feature is the democratic selection of representatives who then make democratically legitimate decisions in the institutions and exercise power. An important question is therefore which representatives are selected, and how.
+
+Philipp Amthor (Spiegel, 31 Aug 2026; own translation): “The basic idea of representative democracy must surely be that the smartest, most diligent and most robust people shape politics,” says Amthor. That is also why he went into politics. “If you have the gift of being smarter and more robust than others, you surely have an obligation to contribute to the whole,” says Amthor. “The idea of merit must be the foundation.”
+

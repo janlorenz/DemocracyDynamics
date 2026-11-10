@@ -1,0 +1,24 @@
+---
+title: "Auswahlprinzipien"
+subtitle: "Mechanismen der Rekrutierung"
+translation-status: "machine"
+translation-source: "en"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Übersetzung"
+  sort-ui: false
+  filter-ui: true
+---
+
+Inhalt folgt.
+
+## Seiten
+
+::: {#pages}
+:::
+

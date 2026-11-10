@@ -1,0 +1,8 @@
+---
+title: "Mechanisms of Collective Decisions / Social Choice"
+order: 4
+status: "draft"
+---
+
+Content to be written.
+

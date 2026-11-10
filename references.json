@@ -1,0 +1,143 @@
+[
+  {
+    "id": "LinhartEtAl2026HowVotersEvaluate",
+    "type": "article-journal",
+    "abstract": "Whether electoral systems should foster proportionality or party system concentration is one of the most frequently discussed trade-offs in electoral system design. This question has primarily been addressed through normative theory and empirical research drawing on expert opinions. What remains unknown is how voters evaluate this fundamental trade-off. In this research note, we provide survey-experimental evidence on how voters evaluate proportionality and clear majorities when explicitly confronted with trade-offs between the two. To account for differences in institutional backgrounds, we conducted the experiment across three countries with different electoral systems (Germany, the Netherlands, and the United Kingdom). Across countries and voter groups, support for proportionality declines less strongly than support for clear majorities once trade-offs are made explicit. These findings have important implications for electoral system reform.",
+    "citation-key": "LinhartEtAl2026HowVotersEvaluate",
+    "container-title": "Electoral Studies",
+    "DOI": "10.1016/j.electstud.2026.103167",
+    "ISSN": "0261-3794",
+    "journalAbbreviation": "Electoral Studies",
+    "page": "103167",
+    "shortTitle": "How voters evaluate the proportionality-concentration trade-off",
+    "source": "ScienceDirect",
+    "title": "How voters evaluate the proportionality-concentration trade-off: Evidence from a cross-national survey experiment",
+    "title-short": "How voters evaluate the proportionality-concentration trade-off",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0261379426001253",
+    "volume": "104",
+    "author": [
+      {
+        "family": "Linhart",
+        "given": "Eric"
+      },
+      {
+        "family": "Jankowski",
+        "given": "Michael"
+      },
+      {
+        "family": "Tepe",
+        "given": "Markus"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          12,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "AstanteEtAl2026ItTakesLittle",
+    "type": "paper-conference",
+    "abstract": "Voting Advice Applications (VAA) are tools designed to help voters compare political candidates on policy preferences prior to elections. VAAs are popular tools in European countries and in other countries with multi-party democratic systems. Through a freedom of information request we got access to the inner workings of a popular Danish VAA called the ‘Kandidattest’ which is implemented by a major Danish news outlet and has been used for general, municipal, and European elections. Users and politicians from every political party answer the same online questionnaire and get matched based on the agreement percentage stemming from their answers. VAAs play a significant role in elections with 45% of surveyed voters reporting they followed their recommendations in the past Danish general election. However, the inner workings of VAAs have not been thoroughly evaluated until now. We find that the algorithm is not robust enough for users to trust the agreement percentages in the output, as small changes to the algorithm can lead to different results, potentially affecting election outcomes. We conduct an algorithmic audit of the Kandidattest’s robustness, using simulated responses to investigate the tool’s brittleness, with respect to minor adjustments of the algorithm’s weight, and changes in the number of questions in the questionnaire.",
+    "citation-key": "AstanteEtAl2026ItTakesLittle",
+    "container-title": "Proceedings of Fifth European Conference on Algorithmic Fairness",
+    "event-title": "European Conference on Algorithmic Fairness",
+    "ISSN": "2640-3498",
+    "language": "en",
+    "page": "318-334",
+    "publisher": "PMLR",
+    "shortTitle": "It Takes So Little to Change So Much",
+    "source": "proceedings.mlr.press",
+    "title": "It Takes So Little to Change So Much: Investigating the Robustness of a Danish Voting Advice Algorithm",
+    "title-short": "It Takes So Little to Change So Much",
+    "URL": "https://proceedings.mlr.press/v350/astante26a.html",
+    "author": [
+      {
+        "family": "Astante",
+        "given": "Giovanni"
+      },
+      {
+        "family": "Sinatra",
+        "given": "Roberta"
+      },
+      {
+        "family": "Sekara",
+        "given": "Vedran"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": "AlgaraZur2023DownsianRootsAffective",
+    "type": "article-journal",
+    "abstract": "A growing literature studies the relationship between ideological and affective polarization. By taking a Downsian approach to affective polarization we contribute to this literature and demonstrating that affective polarization is driven by congruence between citizens and their party, relative to other parties, in the general liberal-conservative space and across a host of salient issue domains. We find robust support for our theory using individual-level national election survey data from the United States, United Kingdom, Germany, and Finland. Moreover, we find that ideological differences inform affective polarization independently from partisan identifications and that they drive more out-party animosity than in-party affinity. These findings have implications towards a more unified understanding of the citizen determinants of affective polarization and the role ideology plays in shaping the views held by partisans across democracies.",
+    "citation-key": "AlgaraZur2023DownsianRootsAffective",
+    "container-title": "Electoral Studies",
+    "DOI": "10.1016/j.electstud.2023.102581",
+    "ISSN": "0261-3794",
+    "journalAbbreviation": "Electoral Studies",
+    "page": "102581",
+    "source": "ScienceDirect",
+    "title": "The Downsian roots of affective polarization",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0261379423000033",
+    "volume": "82",
+    "author": [
+      {
+        "family": "Algara",
+        "given": "Carlos"
+      },
+      {
+        "family": "Zur",
+        "given": "Roi"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          28
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          1
+        ]
+      ]
+    }
+  }
+]

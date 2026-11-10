@@ -1,0 +1,11 @@
+---
+title: "Institutional accountability and transparency"
+order: 10
+status: "draft"
+---
+
+## Aspects and tensions
+
+horizontal vs. vertical accountability (O'Donnell's framework), freedom-of-information law design and its limits (state secrets, national security exceptions), independent oversight bodies (ombudspersons, auditors-general, anti-corruption agencies), lobbying registries and revolving-door regulation, whistleblower protection vs. state-secrecy claims.
+
+

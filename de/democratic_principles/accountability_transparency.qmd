@@ -1,0 +1,20 @@
+---
+title: "Institutional accountability and transparency"
+order: 10
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: a18dbe03a9301b11844211f51882f45f
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+horizontal vs. vertical accountability (O'Donnell's framework), freedom-of-information law design and its limits (state secrets, national security exceptions), independent oversight bodies (ombudspersons, auditors-general, anti-corruption agencies), lobbying registries and revolving-door regulation, whistleblower protection vs. state-secrecy claims.
+
+

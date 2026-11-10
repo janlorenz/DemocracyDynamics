@@ -1,0 +1,14 @@
+---
+title: "Kontrollative"
+description: "Die Spieler beaufsichtigen (Schiedsrichter)"
+group: "operational"
+order: 8
+status: "draft"
+translation-status: "machine"
+translation-source: "en"
+---
+
+Auch: Kontrollierende Gewalt
+
+Überschneidet sich etwas mit der Legislative, kann aber durch Antikorruptionsinstitutionen unabhängig werden.
+

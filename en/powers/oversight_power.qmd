@@ -1,0 +1,12 @@
+---
+title: "Oversight Power"
+description: "Refereeing the Players"
+group: "operational"
+order: 8
+status: "draft"
+---
+
+German terms: Kontrollative, Kontrollierende Gewalt
+
+Clashes a bit with the Legislative power, but anti-corruption institutions can render it independent.
+

@@ -1,0 +1,21 @@
+---
+title: "Separation of powers"
+description: "Checks and balances"
+order: 6
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: ec48459f473ed22107ed0bead27d2aa0
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+presidential vs. parliamentary systems (fusion vs. separation of executive/legislative), judicial review's countermajoritarian tension (unelected courts striking down elected legislatures' laws), fourth-branch institutions (central banks, electoral commissions, audit courts), executive overreach via emergency powers or decree authority, party discipline eroding separation in parliamentary systems (executive and legislative majority controlled by same party).
+
+

@@ -1,0 +1,21 @@
+---
+title: "Democratic Innovations"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Translation"
+  sort-ui: false
+  filter-ui: true
+---
+
+A democratic innovation is a concrete proposal to establish a new institution and/or process of collective decision making. In some sense it is a hypothetical case story, outlining a modified democratic system which does not yet exist.
+
+## Pages
+
+::: {#pages}
+:::
+

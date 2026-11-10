@@ -1,0 +1,32 @@
+---
+title: "Taxation and budgeting"
+description: "Core topics of democratic decision and legitimacy"
+order: 19
+status: "draft"
+---
+
+## Aspects and tensions
+
+Wealth vs. income; wealth distribution; efficiency, transparency, fairness of taxation; efficiency and transparency of spending. Participatory budgeting. Prevention of vicious cycles. Triggering of positive economic dynamics. Budget tension of captial vs. current expenditure (investive vs. consumptive). Distinguish according to the IMF GFS Manual:
+
+1. **Revenue** – *taxes, social contributions, grants received, other revenue (property income, sales, fines).*
+2. **Expense** – *current spending that does not create an asset.*
+    1. Compensation of employees – *wages and salaries paid to government staff*
+    2. Use of goods and services – *day-to-day operating costs, incl. maintenance*
+    3. Consumption of fixed capital – *depreciation of existing assets*
+    4. Interest – *interest paid on government debt*
+    5. Subsidies – *payments to enterprises to lower their costs or prices*
+    6. Grants – *transfers to other governments or international organizations*
+    7. Social benefits – *pensions, unemployment benefits, and other social support*
+    8. Other expense – *residual current expenses not classified elsewhere*
+
+    → **Net operating balance** = Revenue − Expense *(a measure of whether current operations are sustainable)*
+
+3. **Net acquisition of nonfinancial assets** (Investment) – *purchases minus sales of fixed assets, inventories, and other nonfinancial assets.*
+    1. Acquisitions of fixed assets – *buying or building capital assets (roads, buildings, equipment)*
+    2. Disposals of fixed assets – *selling existing capital assets*
+
+    → **Net lending/net borrowing** = Net operating balance − Net acquisition of nonfinancial assets *(shows whether government is a net lender or borrower to the rest of the economy)*
+
+4. **Transactions in financial assets and liabilities** – *how the deficit is financed or the surplus is used: borrowing, issuing debt, buying/selling shares, changing cash reserves.*
+

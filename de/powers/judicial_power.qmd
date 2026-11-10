@@ -1,0 +1,12 @@
+---
+title: "Judikative"
+description: "Streitigkeiten entscheiden"
+group: "operational"
+order: 5
+status: "draft"
+translation-status: "machine"
+translation-source: "en"
+---
+
+Auch: Rechtsprechende Gewalt
+

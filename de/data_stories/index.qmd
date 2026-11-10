@@ -1,0 +1,23 @@
+---
+title: "Datengeschichten"
+translation-status: "machine"
+translation-source: "en"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Übersetzung"
+  sort-ui: false
+  filter-ui: true
+---
+
+Demokratien und demokratische Prozesse digitalisieren sich. In einer Demokratie, die Transparenz und Rechenschaft ernst nimmt, sammeln sich in den offiziellen Akten von Parlamenten, Regierungen, Gerichten und Verwaltungen automatisch immer mehr Daten an. Auch Bürgerinnen und Bürger sowie Politikerinnen und Politiker hinterlassen digitale Spuren ihrer politischen Aktivitäten in sozialen Medien, klassischen Nachrichtenmedien, Wahlempfehlungs-Apps und anderswo. Hinzu kommen kuratierte Daten aus der Politikwissenschaft und anderen empirischen Sozialwissenschaften (etwa mehrdimensionale Demokratieindizes) sowie Umfragen zu politischem Leben, Einstellungen, Überzeugungen und Präferenzen (oft international und repräsentativ durch Zufallsauswahl). Die Analyse solcher Daten kann Einsichten über Zustand und Schicksal von Demokratien liefern und einen Überblick schaffen, der in der politischen Kommunikation hinter strategisch ausgewählten Daten oder deren verzerrter Interpretation oft verborgen bleibt.
+
+## Seiten
+
+::: {#pages}
+:::
+

@@ -1,0 +1,11 @@
+---
+title: "Peaceful transfer of power"
+order: 15
+status: "draft"
+---
+
+## Aspects and tensions
+
+concession norms and their erosion (informal norm vs. legal requirement — what happens when a loser refuses to concede, e.g., contested elections and post-election crises), constitutional succession mechanisms (interim government provisions, caretaker governments during transitions), the role of the military as guarantor vs. threat (militaries that enforce peaceful transfer vs. militaries that stage coups to prevent it), certification and dispute-resolution bodies (electoral courts, who has final authority to declare a winner), historical near-failures and successes as case studies (transitions during civil unrest, contested counts, coalition-formation deadlocks in parliamentary systems).
+
+

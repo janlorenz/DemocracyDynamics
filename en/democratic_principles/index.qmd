@@ -1,0 +1,21 @@
+---
+title: "Democratic Principles"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Translation"
+  sort-ui: false
+  filter-ui: true
+---
+
+A democratic principle is something which is considered essential for a  democracy by most experts and lay persons. Academically, democratic principles are treated in political philosophy, political theory, and constitutional law. Democratic principles imply guidelines and quality criteria for the design of political and legal institutions, and the judgment of democratic culture and practices. By their very nature a multitude of practical implementations of democratic principles can easily create contradictions needing some trade off. Nevertheless, democratic principles are the essence of the very idea of democracy.
+
+## Pages
+
+::: {#pages}
+:::
+

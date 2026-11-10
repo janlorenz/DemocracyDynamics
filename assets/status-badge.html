@@ -1,0 +1,23 @@
+<script>
+// Turns raw keys in listings (translation-status, group) into labelled badges / labels.
+document.addEventListener("DOMContentLoaded", function () {
+  var lang = (document.documentElement.lang || "en").slice(0, 2);
+  var status = {
+    en: { stub: "stub", machine: "machine translation", checked: "checked", curated: "curated" },
+    de: { stub: "Platzhalter", machine: "maschinelle \u00dcbersetzung", checked: "gepr\u00fcft", curated: "kuratiert" }
+  };
+  var group = {
+    en: { foundational: "Foundational", operational: "Operational" },
+    de: { foundational: "Grundlegend", operational: "Operativ" }
+  };
+  document.querySelectorAll(".listing-translation-status").forEach(function (el) {
+    var key = el.textContent.trim();
+    if (!status.en[key]) return;
+    el.innerHTML = '<span class="status-badge status-' + key + '">' + (status[lang] || status.en)[key] + "</span>";
+  });
+  document.querySelectorAll(".listing-group").forEach(function (el) {
+    var key = el.textContent.trim();
+    if (group.en[key]) el.textContent = (group[lang] || group.en)[key];
+  });
+});
+</script>

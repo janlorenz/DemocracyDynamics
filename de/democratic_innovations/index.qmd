@@ -1,0 +1,23 @@
+---
+title: "Demokratische Innovationen"
+translation-status: "machine"
+translation-source: "en"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Übersetzung"
+  sort-ui: false
+  filter-ui: true
+---
+
+Eine demokratische Innovation ist ein konkreter Vorschlag für eine neue Institution und/oder einen neuen Prozess kollektiver Entscheidungsfindung. In gewissem Sinn ist sie eine hypothetische Fallgeschichte: Sie skizziert ein verändertes demokratisches System, das es noch nicht gibt.
+
+## Seiten
+
+::: {#pages}
+:::
+

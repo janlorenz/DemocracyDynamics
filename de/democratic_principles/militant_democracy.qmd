@@ -1,0 +1,20 @@
+---
+title: "Defensive/Militant democracy"
+order: 16
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: 90892bf1559388eecde1db292a530003
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+party-ban jurisprudence and its thresholds (Germany's NPD case — unconstitutional aims but "too insignificant" to ban, Turkey's frequent party closures as a contrast in overuse), the paradox of tolerance (Popper) vs. free-association absolutism (US First Amendment approach as the rejection case), who decides — courts vs. legislatures vs. executive (risk of incumbents weaponizing "defense of democracy" against genuine opposition), scope beyond parties (militant-democracy logic applied to hate speech law, extremist civil-service bans like Germany's Radikalenerlass, proscription of organizations/movements short of parties), historical origin and justification (Loewenstein's 1937 response to Weimar's legal collapse) vs. contemporary application to digital-age extremism and disinformation-driven anti-democratic movements.
+
+

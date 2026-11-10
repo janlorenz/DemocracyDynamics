@@ -1,0 +1,11 @@
+---
+title: "Political equality"
+order: 8
+status: "draft"
+---
+
+## Aspects and tensions
+
+formal equality ("one person, one vote") vs. substantive equality (does money/media access distort real influence?), weighted representation debates (US Senate malapportionment, federal chamber design), suffrage history and expansion (property, race, gender, age qualifications), representation of underrepresented groups (quotas, reserved seats), non-citizen/resident voting rights.
+
+

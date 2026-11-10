@@ -1,0 +1,14 @@
+---
+title: "Elektive Gewalt"
+description: "Die Spieler auswählen"
+group: "foundational"
+order: 2
+status: "draft"
+translation-status: "machine"
+translation-source: "en"
+---
+
+Auch: Wahlbezogene und partizipative Gewalt; Elektorat und Wahlleitung
+
+Eng verwandt ist die Befugnis, Bürgerschaft oder verwandte Rechte zu verleihen, etwa das aktive und passive Wahlrecht. Bürgerrechte sind nicht dasselbe wie Menschenrechte, die jeder Mensch hat.
+

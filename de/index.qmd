@@ -1,0 +1,30 @@
+---
+title: "Demokratie-Dynamik"
+translation-status: "machine"
+translation-source: "en"
+---
+
+## Grundannahme
+
+Eine perfekte Demokratie, die für alle Gesellschaften passt, ist unmöglich. (Das lässt sich auf Unmöglichkeitstheoreme zurückführen.) Es ist zudem schwierig zu beurteilen, welches demokratische System besser ist – nicht nur, weil es mehrdimensional ist, sondern auch, weil ein System, das in einer Gesellschaft gut funktioniert, in einer anderen schlecht passen kann. Außerdem gibt es grundlegende Konflikte zwischen demokratischen Prinzipien, die einen differenzierten Ausgleich erfordern.
+
+Aspekte demokratischer Systeme, die als gut funktionierend wahrgenommen wurden, können durch Verhaltensanpassungen der politischen Akteure auch degenerieren. Gibt es selbststabilisierende oder selbstverbessernde Dynamiken, die durch Verhaltensanpassungen politischer Akteure ausgelöst werden? Versuchen wir, sie zu identifizieren. Untersuchen wir, wie widerstandsfähig diese Verbesserungspfade sind. Können sie aus guten Kreisläufen in Teufelskreise kippen? Wie? Durch zufällige Schwankungen? Durch Anstöße böswilliger Akteure? Was noch? Wie können sie zurückfinden? Wie können wir das beobachten?
+
+Die nächste Herausforderung: Manchmal liegt die richtige Anpassung zur Verbesserung der demokratischen Qualität in einer Reform des demokratischen Systems. In einer Demokratie müssen Reformen jedoch aus dem System selbst kommen. Können wir Mechanismen der Systemreform in ein demokratisches System einbauen? Wie können wir beurteilen, ob solche eingebauten Selbstreformen funktionieren?
+
+Arten von Reformen: Was ist praktisch eine Reform? Sie kann eine Verfassungsänderung sein. Sie kann ein neues Gesetz oder die Änderung eines Grundgesetzes sein, das demokratische Prozesse regelt. Sie kann ein Urteil eines Verfassungsgerichts sein. Sie kann auch eine bewusste öffentliche Handlung sein, getragen von einer substanziellen Gruppe zentraler Akteure durch Selbstverpflichtung oder Kodex.
+
+## Aspekte demokratischer Systeme
+
+### Theoretische Aspekte
+
+- [Demokratische Prinzipien](democratic_principles/index.qmd): was als wesentlich für eine Demokratie gilt und wo Prinzipien in Konflikt geraten.
+- [Gewalten](powers/index.qmd): die abstrakten Gewalten oder Staatsgewalten, von grundlegenden bis zu operativen Gewalten.
+- [Auswahlprinzipien](selection_principles/index.qmd): Mechanismen der Rekrutierung, d. h. wie diejenigen ausgewählt werden, die Macht ausüben.
+
+### Praktische Aspekte
+
+- [Fallgeschichten](case_stories/index.qmd): demokratische Systeme in Geschichte und Gegenwart.
+- [Demokratische Innovationen](democratic_innovations/index.qmd): konkrete Vorschläge für neue Institutionen und Prozesse kollektiver Entscheidungsfindung.
+- [Datengeschichten](data_stories/index.qmd): was Daten über den Zustand von Demokratien verraten.
+- [Mechanismen-Explorables](mechanism_explorables/index.qmd): interaktive Erkundungen von Entscheidungsmechanismen und systemischen Dynamiken.

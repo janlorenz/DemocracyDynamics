@@ -1,0 +1,20 @@
+---
+title: "Popular sovereignty"
+order: 2
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: f9d8bc048761d8636bfee40a8c8a4683
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+direct vs. representative expression (referenda vs. parliamentary mandate), constituent power vs. constituted power (who can rewrite the constitution itself), popular sovereignty vs. constitutional constraints (can "the people" vote away their own rights?), the EU's democratic-deficit debate (sovereignty pooled above the nation-state), plebiscitary abuse (authoritarian leaders invoking "the people" to bypass institutions).
+
+

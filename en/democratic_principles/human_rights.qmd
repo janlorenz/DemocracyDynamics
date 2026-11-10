@@ -1,0 +1,11 @@
+---
+title: "Human rights"
+order: 4
+status: "draft"
+---
+
+## Aspects and tensions
+
+universalism vs. cultural relativism, positive vs. negative rights (freedom from vs. entitlement to), justiciability (which rights courts can enforce vs. aspirational/programmatic rights), international human rights law vs. national sovereignty (ECHR rulings binding domestic law), horizontal effect (do rights bind private actors/corporations, not just the state?).
+
+

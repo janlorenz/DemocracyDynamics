@@ -1,0 +1,12 @@
+---
+title: "Monetative"
+description: "Die Währung steuern"
+group: "operational"
+order: 6
+status: "draft"
+translation-status: "machine"
+translation-source: "en"
+---
+
+Auch: Geldpolitische Gewalt
+

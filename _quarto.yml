@@ -1,0 +1,108 @@
+project:
+  type: website
+  output-dir: _site
+  # Only the language folders are rendered; PLAN.md, OUTLINE.md etc. stay private.
+  render:
+    - "en/**/*.qmd"
+    - "de/**/*.qmd"
+
+website:
+  title: "Democracy Dynamics"
+  site-url: "https://janlorenz.github.io/DemocracyDynamics"
+  repo-url: "https://github.com/janlorenz/DemocracyDynamics"
+  # Navbar stays language-neutral (title + search); the language switcher
+  # is injected per page by filters/langswitch.lua.
+  navbar:
+    title: "Democracy Dynamics"
+  # One sidebar per language. Pages pick the sidebar that contains them.
+  sidebar:
+    - id: en
+      style: docked
+      collapse-level: 1
+      contents:
+        - text: "Home"
+          href: en/index.qmd
+        - section: "Theoretical Aspects"
+          contents:
+            - section: "Democratic Principles"
+              href: en/democratic_principles/index.qmd
+              contents:
+                - auto: "en/democratic_principles/*.qmd"
+            - section: "Powers"
+              href: en/powers/index.qmd
+              contents:
+                - auto: "en/powers/*.qmd"
+            - section: "Selection Principles"
+              href: en/selection_principles/index.qmd
+              contents:
+                - auto: "en/selection_principles/*.qmd"
+        - section: "Practical Aspects"
+          contents:
+            - section: "Case Stories"
+              href: en/case_stories/index.qmd
+              contents:
+                - auto: "en/case_stories/*.qmd"
+            - section: "Democratic Innovations"
+              href: en/democratic_innovations/index.qmd
+              contents:
+                - auto: "en/democratic_innovations/*.qmd"
+            - section: "Data Stories"
+              href: en/data_stories/index.qmd
+              contents:
+                - auto: "en/data_stories/*.qmd"
+            - section: "Mechanism Explorables"
+              href: en/mechanism_explorables/index.qmd
+              contents:
+                - auto: "en/mechanism_explorables/*.qmd"
+    - id: de
+      style: docked
+      collapse-level: 1
+      contents:
+        - text: "Startseite"
+          href: de/index.qmd
+        - section: "Theoretische Aspekte"
+          contents:
+            - section: "Demokratische Prinzipien"
+              href: de/democratic_principles/index.qmd
+              contents:
+                - auto: "de/democratic_principles/*.qmd"
+            - section: "Gewalten"
+              href: de/powers/index.qmd
+              contents:
+                - auto: "de/powers/*.qmd"
+            - section: "Auswahlprinzipien"
+              href: de/selection_principles/index.qmd
+              contents:
+                - auto: "de/selection_principles/*.qmd"
+        - section: "Praktische Aspekte"
+          contents:
+            - section: "Fallgeschichten"
+              href: de/case_stories/index.qmd
+              contents:
+                - auto: "de/case_stories/*.qmd"
+            - section: "Demokratische Innovationen"
+              href: de/democratic_innovations/index.qmd
+              contents:
+                - auto: "de/democratic_innovations/*.qmd"
+            - section: "Datengeschichten"
+              href: de/data_stories/index.qmd
+              contents:
+                - auto: "de/data_stories/*.qmd"
+            - section: "Mechanismen-Explorables"
+              href: de/mechanism_explorables/index.qmd
+              contents:
+                - auto: "de/mechanism_explorables/*.qmd"
+
+filters:
+  - filters/wikilinks.lua
+  - filters/langswitch.lua
+  - filters/status-banner.lua
+
+bibliography: references.json
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-after-body: assets/status-badge.html

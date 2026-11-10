@@ -1,0 +1,21 @@
+---
+title: "Economic freedom bound to public good"
+description: "As liberal-democratic principle"
+order: 17
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: 4fbac817ce40a66ad5830a695cca001c
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+property as a check on state power (economic independence enabling political dissent) vs. property as entrenching pre-existing inequality into political influence (money in politics, oligarchic capture — tying back to the political-equality principle); social-market economy vs. laissez-faire vs. socialist-democratic models as different resolutions of the freedom/public-good balance; expropriation and compensation law (when can the state take property, and on what terms — Art. 14(3) GG as a case study); the welfare state as the institutional mechanism binding markets to public good (redistribution, regulation); economic democracy debates (co-determination/Mitbestimmung — should workers have governance rights in firms, not just political ones); Piketty-style debates on whether extreme wealth concentration is itself a threat to political equality and democratic legitimacy.
+
+

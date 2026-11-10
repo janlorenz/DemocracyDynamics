@@ -1,0 +1,12 @@
+---
+title: "Free and pluralistic party formation"
+description: "Parties as emergent institutions"
+order: 12
+status: "draft"
+---
+
+## Aspects and tensions
+
+ballot-access thresholds as barriers to entry (are signature/vote thresholds fair gatekeeping or entrenchment of incumbents?), party financing and dependency on state subsidy vs. private donors, internal party democracy requirements (candidate selection transparency), the tension with militant democracy (when does regulating a party become suppressing legitimate opposition?), dominant-party systems that retain formal pluralism without genuine competition (electoral authoritarianism, e.g., historically Mexico's PRI or Singapore's PAP).
+
+

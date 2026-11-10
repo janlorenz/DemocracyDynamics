@@ -1,0 +1,14 @@
+---
+title: "Electoral Power"
+description: "Choosing Players"
+group: "foundational"
+order: 2
+status: "draft"
+---
+
+German terms: Elektive, Wahlbezogene und partizipative Gewalt; Elektorat und Wahlleitung
+
+Institutions: Electorate and Electoral Commission.
+
+A closely related aspect is the power to assign citizenship or related rights to be an active player in the democratic system, like passive and active voting rights. Citizen rights are not the same as human rights, which every human has.
+

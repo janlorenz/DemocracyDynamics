@@ -1,0 +1,8 @@
+---
+title: "Majority Cycles in Swiss Referendums"
+order: 2
+status: "draft"
+---
+
+Content to be written.
+

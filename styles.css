@@ -1,0 +1,27 @@
+.lang-switch {
+  text-align: right;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+.lang-switch a,
+.lang-switch strong {
+  margin-left: 0.5rem;
+}
+
+.wikilink-broken {
+  color: #c00;
+  text-decoration: underline wavy;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 0.1em 0.5em;
+  border-radius: 0.6em;
+  font-size: 0.8em;
+  color: #fff;
+  white-space: nowrap;
+}
+.status-badge.status-stub { background: #adb5bd; color: #212529; }
+.status-badge.status-machine { background: #f0ad4e; color: #212529; }
+.status-badge.status-checked { background: #5bc0de; color: #212529; }
+.status-badge.status-curated { background: #5cb85c; }

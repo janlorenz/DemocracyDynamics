@@ -1,0 +1,24 @@
+---
+title: "Fallgeschichten"
+subtitle: "Historische Geschichten"
+translation-status: "machine"
+translation-source: "en"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Übersetzung"
+  sort-ui: false
+  filter-ui: true
+---
+
+Alle Prinzipien und Gewalten eines Demokratiekonzepts bleiben abstrakt und theoretisch, solange wir sie nicht in bestehenden oder historischen demokratischen Systemen beobachten, erklären und hinterfragen. Fallgeschichten zeigen, wie unterschiedliche Gewalten und Entscheidungsprozesse mit verschiedenen Verfassungen, Institutionen und Praktiken entstanden sind, umgesetzt und aufrechterhalten wurden – aufbauend auf Geschichte und Kultur von Nationen, Staaten und anderen selbstverwalteten Einheiten.
+
+## Seiten
+
+::: {#pages}
+:::
+

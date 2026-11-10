@@ -1,0 +1,21 @@
+---
+title: "Stateness"
+description: "Basic order / bounded political community"
+order: 13
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: b0c0a57cb7d9672e362958c175de0c96
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+secession procedures (Québec's clarity requirements, Scotland's referendum-based approach, Ethiopia's constitutional secession right vs. its non-use), contested statehood, minority self-determination vs. territorial integrity, federalism as a stateness-management tool
+
+

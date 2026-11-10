@@ -1,0 +1,12 @@
+---
+title: "Informational Power"
+description: "Informing the Public"
+group: "operational"
+order: 9
+status: "draft"
+---
+
+German terms: Publikative, Informativ-publizistische Gewalt
+
+Examples (German): Presse-, Rundfunk-, Internetrat.
+

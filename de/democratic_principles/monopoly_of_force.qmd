@@ -1,0 +1,20 @@
+---
+title: "Monopoly on the legitimate use of force"
+order: 14
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: a34f8e50b25f55101bb1450134155082
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+civilian control of the military (constitutional design — who can order troop deployment, budget oversight), police accountability and judicial oversight, prohibition of party militias/private armies, coup-proofing, the tension between security-service secrecy and democratic transparency (parallel to the accountability/transparency principle).
+
+

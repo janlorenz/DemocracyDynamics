@@ -1,0 +1,11 @@
+---
+title: "Rule of law"
+order: 5
+status: "draft"
+---
+
+## Aspects and tensions
+
+formal vs. substantive rule of law (mere legality vs. law that is just), Rechtsstaat vs. rule by law (authoritarian regimes that follow their own laws while being undemocratic), retroactivity and legal certainty, judicial independence as enforcement mechanism, current "rule of law crises" (Poland, Hungary — EU Article 7 proceedings) as case studies in backsliding.
+
+

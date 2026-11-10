@@ -1,0 +1,23 @@
+---
+title: "Mechanismen-Explorables"
+translation-status: "machine"
+translation-source: "en"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Übersetzung"
+  sort-ui: false
+  filter-ui: true
+---
+
+Der Entwurf eines konkreten Mechanismus und Algorithmus zur Aggregation einer kollektiven Entscheidung kann selbst eine Herausforderung sein, wenn er eine Vielzahl demokratischer Prinzipien erfüllen soll, die teilweise im Widerspruch stehen. Die Probleme reichen von Unmöglichkeitstheoremen der Social- und Public-Choice-Theorie über Dilemmata und Trilemmata bis zu anspruchsvollen algorithmischen Entwurfsfragen. Sie müssen verstanden werden, um Institutionen und Entscheidungsprozesse gut zu gestalten. Zudem finden die Entscheidungen der verschiedenen demokratischen Gewalten wiederholt und nicht isoliert voneinander statt: Jede Entscheidung verändert die Bedingungen für die Selbstorganisation der Akteure im demokratischen System. Dieses komplexe dynamische System erzeugt eine sich ständig verändernde politische Realität. Komplexe Systeme können emergente Eigenschaften zeigen, die auf systemischen Mechanismen in der wiederholten Interaktion der Akteure beruhen. Solche Mechanismen sollten verstanden werden, um Demokratie besser zu gestalten, zu organisieren und zu reformieren – unbeabsichtigte Folgen vermeidend, Teufelskreise erkennend und positive Kreisläufe fördernd. Kollektive Entscheidungsmechanismen und systemische Mechanismen komplexer Systeme lassen sich am besten mit interaktiven Explorables erkunden und verstehen, mit denen man Algorithmen und Systeme ausprobieren kann.
+
+## Seiten
+
+::: {#pages}
+:::
+

@@ -1,0 +1,10 @@
+---
+title: "Constituent Power"
+description: "Rules of the Game"
+group: "foundational"
+order: 1
+status: "draft"
+---
+
+German terms: Konstitutive, Verfassungsgebende Gewalt
+

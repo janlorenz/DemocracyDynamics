@@ -1,0 +1,14 @@
+---
+title: "Regulative"
+description: "Das Spielfeld eben halten"
+group: "operational"
+order: 7
+status: "draft"
+translation-status: "machine"
+translation-source: "en"
+---
+
+Auch: Regulierungs- und Aufsichtsgewalt
+
+Abgrenzung zur Exekutive: Regulierungsbehörden sollen nicht von Oligarchen geprägt sein. Abgrenzung zur Kontrolle: Es geht nicht um Überwachen und Untersuchen, sondern um Genehmigen und Erlaubnisse erteilen. Beispiele: Bundesnetzagentur, Kartellamt.
+

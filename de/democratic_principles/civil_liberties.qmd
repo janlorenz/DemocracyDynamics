@@ -1,0 +1,20 @@
+---
+title: "Protection of civil liberties"
+order: 3
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: ee352a8fd7eb54cdf637644322abbb73
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+speech vs. hate speech regulation (US vs. European/German approaches), religious freedom vs. secularism (laïcité debates), assembly rights vs. public order restrictions, digital-age liberties (surveillance, data privacy as a modern civil liberty), balancing liberties against security post-9/11 or during emergencies (Ausnahmezustand / state-of-emergency powers).
+
+

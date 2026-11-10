@@ -1,0 +1,14 @@
+---
+title: "Regulatory Power"
+description: "Leveling the Playing Field"
+group: "operational"
+order: 7
+status: "draft"
+---
+
+German terms: Regulative, Regulierungs- und Aufsichtsgewalt
+
+Different from the Executive such that it does not feature oligarchs; different from Oversight as it is not about controlling and investigating but about approval and permission granting.
+
+Examples: Bundesnetzagentur, Kartellamt.
+

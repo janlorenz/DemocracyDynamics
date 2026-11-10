@@ -1,0 +1,20 @@
+---
+title: "Federations, principle of subsidiarity, local autonomy"
+order: 18
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: 5232b008373b2f8963ec42fc6ef6f21a
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+Global vs. local, responsibility and accountability
+
+

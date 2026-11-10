@@ -1,0 +1,21 @@
+---
+title: "Data Stories"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Translation"
+  sort-ui: false
+  filter-ui: true
+---
+
+Democracies and democratic processes digitize. In a democracy adhering to transparency and accountability, more and more data accumulates automatically in official records of parliaments, governments, courts, and public administration. Further on, also citizens and politicians leave digital traces about the political activities in social media, traditional news media, voting advice applications, and so on.  Moreover, political science and other empirical social sciences provide a rich reservoir of curated data (such as multidimensional democracy indices) as well as surveys of citizens about their political life and political attitudes, beliefs and preferences (often large scale international and representative through random selection). Analysis of such data can deliver insights about the state and fate of democracies by creatively finding new insights and providing overview (which is often hidden in political communication behind strategically picked data or their biased interpretation).
+
+## Pages
+
+::: {#pages}
+:::
+

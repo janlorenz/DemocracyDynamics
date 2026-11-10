@@ -1,0 +1,8 @@
+---
+title: "Technocracy"
+order: 4
+status: "draft"
+---
+
+Content to be written.
+

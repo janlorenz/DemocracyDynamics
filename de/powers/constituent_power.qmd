@@ -1,0 +1,12 @@
+---
+title: "Verfassungsgebende Gewalt"
+description: "Die Spielregeln"
+group: "foundational"
+order: 1
+status: "draft"
+translation-status: "machine"
+translation-source: "en"
+---
+
+Auch: Konstitutive Gewalt
+

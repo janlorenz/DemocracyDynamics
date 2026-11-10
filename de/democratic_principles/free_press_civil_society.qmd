@@ -1,0 +1,20 @@
+---
+title: "Free press and civil society"
+order: 11
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: 9e45eb9e11a7c704883e0795b64d6eba
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+media ownership concentration and pluralism law, public broadcasting independence vs. state capture, platform/social-media regulation (disinformation, algorithmic amplification), NGO "foreign agent" laws as tools of civil-society suppression (Russia, Hungary as cases), press freedom indices and their methodology, journalist safety and SLAPP suits (strategic lawsuits against public participation).
+
+

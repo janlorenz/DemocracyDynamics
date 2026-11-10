@@ -1,0 +1,10 @@
+/_site/
+/.quarto/
+.Rproj.user
+.Rhistory
+.RData
+*_files/
+
+/.luarc.json
+
+**/*.quarto_ipynb

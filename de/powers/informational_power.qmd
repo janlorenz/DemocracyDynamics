@@ -1,0 +1,14 @@
+---
+title: "Publikative"
+description: "Die Öffentlichkeit informieren"
+group: "operational"
+order: 9
+status: "draft"
+translation-status: "machine"
+translation-source: "en"
+---
+
+Auch: Informativ-publizistische Gewalt
+
+Beispiele: Presse-, Rundfunk-, Internetrat.
+

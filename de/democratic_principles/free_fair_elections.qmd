@@ -1,0 +1,20 @@
+---
+title: "Free and fair elections"
+order: 7
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: 58c548321fd9e98d5c269376de0d45a8
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+electoral systems and their effects (proportional vs. first-past-the-post, gerrymandering), campaign finance regulation, voter suppression vs. voter-ID integrity measures, election observation and international standards (OSCE/ODIHR benchmarks), disinformation and foreign interference in the digital-campaign era.
+
+

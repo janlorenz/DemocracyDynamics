@@ -1,0 +1,22 @@
+---
+title: "Case Stories"
+subtitle: "Historical Stories"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Translation"
+  sort-ui: false
+  filter-ui: true
+---
+
+All the principles and powers in a concept of democracy remain abstract and theoretical when we do not observe, explain, and scrutinize them in existing or historic democratic systems. Case stories highlight how different powers and decision processes were created, implemented, and maintained with different constitutions, institutions and practices, building on the history and culture of nations, states, and other self-governing entities.
+
+## Pages
+
+::: {#pages}
+:::
+

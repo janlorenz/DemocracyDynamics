@@ -1,0 +1,23 @@
+---
+title: "Demokratische Prinzipien"
+translation-status: "machine"
+translation-source: "en"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Übersetzung"
+  sort-ui: false
+  filter-ui: true
+---
+
+Ein demokratisches Prinzip ist etwas, das von den meisten Fachleuten und Laien als wesentlich für eine Demokratie angesehen wird. Wissenschaftlich werden demokratische Prinzipien in der politischen Philosophie, der politischen Theorie und im Verfassungsrecht behandelt. Sie liefern Leitlinien und Qualitätskriterien für die Gestaltung politischer und rechtlicher Institutionen sowie für die Beurteilung demokratischer Kultur und Praxis. Die Vielzahl praktischer Umsetzungen demokratischer Prinzipien kann leicht zu Widersprüchen führen, die einen Ausgleich erfordern. Dennoch sind demokratische Prinzipien der Kern der Idee der Demokratie.
+
+## Seiten
+
+::: {#pages}
+:::
+

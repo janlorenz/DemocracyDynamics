@@ -1,0 +1,12 @@
+---
+title: "Legislative"
+description: "Gesetze machen"
+group: "operational"
+order: 4
+status: "draft"
+translation-status: "machine"
+translation-source: "en"
+---
+
+Auch: Gesetzgebende Gewalt
+

@@ -1,0 +1,21 @@
+---
+title: "Mechanism Explorables"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Translation"
+  sort-ui: false
+  filter-ui: true
+---
+
+The design of a specific mechanism and algorithm for aggregating a collective decision can be a challenge in itself, when they should adhere to a multitude of democratic principles which are at least in part in contradiction. The problems range from impossibility theorems in social and public choice, over dilemmas, trilemmas and the like, to sophisticated algorithmic design questions. Such problems need to be understood for a proper design of institutions and decision processes. Moreover, the decisions by the different democratic powers happen repeatedly and not in isolation of the other powers. So, each decision changes the conditions for the self-organization of actors in a democratic systems. This complex dynamical system creates an ever-changing political reality. Complex systems can show emergent properties through systemic mechanisms hidden in the repeated interaction of actors. Such mechanisms should be understood to better design, organize, and reform democracy avoiding unintended consequences, anticipating vicious cycles, and fueling virtuous cycles. Mechanisms of collective decisions and systemic mechanisms in complex systems are best explored and understood with interactive explorables which allow to play with algorithms and systems.
+
+## Pages
+
+::: {#pages}
+:::
+

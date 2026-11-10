@@ -1,0 +1,20 @@
+---
+title: "Human rights"
+order: 4
+status: "draft"
+generated: true
+translation-status: stub
+translation-source: en
+translation-hash: 404083ce6f5f05a799bc7d876e7638a4
+---
+
+::: {.callout-note}
+Diese Seite wurde noch nicht übersetzt. Hier das Original (Englisch).
+:::
+
+
+## Aspects and tensions
+
+universalism vs. cultural relativism, positive vs. negative rights (freedom from vs. entitlement to), justiciability (which rights courts can enforce vs. aspirational/programmatic rights), international human rights law vs. national sovereignty (ECHR rulings binding domestic law), horizontal effect (do rights bind private actors/corporations, not just the state?).
+
+

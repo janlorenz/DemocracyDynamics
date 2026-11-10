@@ -1,0 +1,23 @@
+---
+title: "Powers"
+subtitle: "Powers / Branches of the State"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, group, description, translation-status]
+  field-display-names:
+    translation-status: "Translation"
+    group: "Group"
+  sort-ui: false
+  filter-ui: true
+---
+
+A power or branch of a democracy is an abstract entity of power which has a final authority over decisions about specific matters with clear limitations on other matters. The specification of these powers is central to the principle of the separation of powers (checks and balances). Powers are typically executed by institutions, the abstract power concept goes beyond that, several institutions can be involved.
+
+## Pages
+
+::: {#pages}
+:::
+

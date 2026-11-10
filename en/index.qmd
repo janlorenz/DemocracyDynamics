@@ -1,0 +1,28 @@
+---
+title: "Democracy Dynamics"
+---
+
+## Core assumption
+
+A perfect democracy fitting for all societies is impossible. (We can trace this back to impossibility theorems.) It is also complicated to assess which democratic system is better. Not only because it is multidimensional, but also because a well functioning democratic system in one society may fit badly in another society. Furthermore, there are fundamental conflicts of democratic principles where a nuanced balance is needed.
+
+Aspects of a democratic system which have been perceived as functioning well can also degenerate through behavioral adaptations of the political actors. Are there self-stabilizing or self-improving dynamics triggered by behavioral adaptation of political actors? Let us try to identify them. Let us explore how resilient these improving paths are. Can they come off track from virtuous to vicious cycles? How? By some random fluctuation? Through nudges by malicious players? What else? How can they come back? How can we monitor it?
+
+Next challenge: Sometimes the right adaptation to improve democratic quality may lie in a reform of the democratic system. However, in a democracy, reforms must come from within the system. Can we build mechanisms of system reform into a democratic system? How can we assess if such built-in reforms of itself work?
+
+Types of reforms: What is a reform practically? It can be a change of constitution. It can be a new law or a change of a fundamental law regulating democratic processes. It can be a verdict of a constitutional court. It is also a conscious public action driven by a substantial group of core actors through self-commitment or codex.
+
+## Aspects of democratic systems
+
+### Theoretical aspects
+
+- [Democratic Principles](democratic_principles/index.qmd): what is considered essential for a democracy, and where principles conflict.
+- [Powers](powers/index.qmd): the abstract powers or branches of the state, from foundational to operational.
+- [Selection Principles](selection_principles/index.qmd): mechanisms of recruitment, i.e. how those who hold power are selected.
+
+### Practical aspects
+
+- [Case Stories](case_stories/index.qmd): democratic systems observed in history and today.
+- [Democratic Innovations](democratic_innovations/index.qmd): concrete proposals for new institutions and processes of collective decision making.
+- [Data Stories](data_stories/index.qmd): what data can tell about the state of democracies.
+- [Mechanism Explorables](mechanism_explorables/index.qmd): interactive explorations of decision mechanisms and systemic dynamics.

@@ -1,0 +1,14 @@
+---
+title: "Exekutive"
+description: "Den Staat führen: Verteidigung, Diplomatie und Verwaltung"
+group: "operational"
+order: 3
+status: "draft"
+translation-status: "machine"
+translation-source: "en"
+---
+
+Auch: Ausführende Gewalt
+
+Zu unterscheiden sind die innere Verwaltung und die außen- und verteidigungspolitische Prärogative.
+

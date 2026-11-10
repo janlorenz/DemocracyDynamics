@@ -1,0 +1,25 @@
+---
+title: "Gewalten"
+subtitle: "Gewalten / Staatsgewalten"
+translation-status: "machine"
+translation-source: "en"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, group, description, translation-status]
+  field-display-names:
+    translation-status: "Übersetzung"
+    group: "Gruppe"
+  sort-ui: false
+  filter-ui: true
+---
+
+Eine Gewalt (Staatsgewalt) ist eine abstrakte Machtinstanz mit letzter Entscheidungsbefugnis über bestimmte Angelegenheiten und mit klaren Grenzen in anderen Angelegenheiten. Die Bestimmung dieser Gewalten ist zentral für das Prinzip der Gewaltenteilung (Checks and Balances). Gewalten werden typischerweise von Institutionen ausgeübt; das abstrakte Konzept der Gewalt geht darüber hinaus, da mehrere Institutionen beteiligt sein können.
+
+## Seiten
+
+::: {#pages}
+:::
+

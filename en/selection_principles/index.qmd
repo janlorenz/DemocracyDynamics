@@ -1,0 +1,22 @@
+---
+title: "Selection Principles"
+subtitle: "Mechanisms of Recruitment"
+listing:
+  id: pages
+  contents: "*.qmd"
+  type: table
+  sort: "order"
+  fields: [title, description, translation-status]
+  field-display-names:
+    translation-status: "Translation"
+  sort-ui: false
+  filter-ui: true
+---
+
+Content to be written.
+
+## Pages
+
+::: {#pages}
+:::
+
