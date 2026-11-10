@@ -1,0 +1,13 @@
+---
+title: "Freeze test (temporary)"
+mirror: false
+---
+
+This page runs R code locally only. The package below is not installed in CI.
+
+```{r}
+library(ggplot2)
+ggplot(mtcars, aes(wt, mpg)) + geom_point()
+```
+
+Rendered with R `r getRversion()` on `r format(Sys.Date())`.

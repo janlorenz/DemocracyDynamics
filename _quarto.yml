@@ -98,6 +98,11 @@ filters:
   - filters/langswitch.lua
   - filters/status-banner.lua
 
+# Code runs locally only. `quarto render` on your machine refreshes _freeze/,
+# which is committed; CI reuses the stored results and needs no R packages.
+execute:
+  freeze: auto
+
 bibliography: references.json
 
 format:

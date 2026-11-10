@@ -1,0 +1,17 @@
+{
+  "hash": "d628d2072271318e0c41bf5add126122",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Freeze test (temporary)\"\nmirror: false\n---\n\nThis page runs R code locally only. The package below is not installed in CI.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\nggplot(mtcars, aes(wt, mpg)) + geom_point()\n```\n\n::: {.cell-output-display}\n![](freeze_test_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\nRendered with R 4.6.1 on 2026-11-10.\n",
+    "supporting": [
+      "freeze_test_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

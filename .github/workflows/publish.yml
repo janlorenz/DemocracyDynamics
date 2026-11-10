@@ -30,7 +30,8 @@ jobs:
 
       - uses: quarto-dev/quarto-actions/setup@v2
 
-      # Once pages contain R code cells, add r-lib/actions/setup-r-dependencies here.
+      # Code cells are not executed here: results come from the committed _freeze/ folder.
+      # Render locally (`quarto render`) and commit _freeze/ after changing code pages.
       - name: Render site
         run: quarto render
 
