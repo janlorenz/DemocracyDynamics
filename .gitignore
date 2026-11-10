@@ -8,3 +8,5 @@
 /.luarc.json
 
 **/*.quarto_ipynb
+/PLAN.md
+/PROJECT_BRIEF.md
